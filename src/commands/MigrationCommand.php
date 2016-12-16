@@ -63,4 +63,5 @@ class MigrationCommand extends Command
 
         return false;
     }
+    
 }
